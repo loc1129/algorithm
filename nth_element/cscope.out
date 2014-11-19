@@ -1,0 +1,133 @@
+cscope 15 $HOME/privateproject/algorithm/nth_element -q 0000000018 0000000718
+	@test.cpp
+
+1 
+	~<io¡»am
+>
+
+2 
+	~<®gÜ™hm
+>
+
+3 
+	~<veùÜ
+>
+
+5 
+boÞ
+ 
+	$myfunùiÚ
+ (
+i
+,
+j
+è{  (i<j); 
+	}
+}
+
+7 
+	$maš
+ () {
+
+8 
+¡d
+::
+veùÜ
+<> 
+myveùÜ
+;
+
+10 
+i
+=1; i<10; i++è
+myveùÜ
+.
+	`push_back
+(i);
+
+12 
+¡d
+::
+	`¿ndom_shufæe
+ (
+myveùÜ
+.
+	`begš
+(), myveùÜ.
+	`’d
+());
+
+15 
+¡d
+::
+	`Áh_–em’t
+ (
+myveùÜ
+.
+	`begš
+(), myveùÜ.begš()+5, myveùÜ.
+	`’d
+());
+
+18 
+¡d
+::
+	`Áh_–em’t
+ (
+myveùÜ
+.
+	`begš
+(), myveùÜ.begš()+5, myveùÜ.
+	`’d
+(),
+myfunùiÚ
+);
+
+21 
+¡d
+::
+cout
+ << "myvector contains:";
+
+22 
+¡d
+::
+veùÜ
+<>::
+™”©Ü
+ 
+™
+=
+myveùÜ
+.
+	`begš
+(); it!=myveùÜ.
+	`’d
+(); ++it)
+
+23 
+¡d
+::
+cout
+ << ' ' << *
+™
+;
+
+24 
+¡d
+::
+cout
+ << '\n';
+
+27 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+1
+9
+test.cpp
